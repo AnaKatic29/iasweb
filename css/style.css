@@ -431,7 +431,7 @@ section.about {
 }
 
 .kontakt-header {
-    background: linear-gradient(rgba(165, 121, 25, 0.65), rgba(203, 149, 24, 0.65)), center center no-repeat;
+    background: linear-gradient(rgba(234, 162, 7, 0.75), rgba(227, 141, 12, 0.75)), center center no-repeat;
     background-size: cover;
 }
 
@@ -601,3 +601,49 @@ section.about {
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+
+
+
+/* @media (max-width: 767px) {
+    .logo-image {
+        width: 40px;
+        height: 40px;
+        margin-right: 10px;
+    }
+    
+    .srpski-text::after,
+    .engleski-text::after {
+        width: 10px;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    .logo-text-primary,
+    .logo-text-latin {
+        font-size: 0.9rem;
+    }
+    
+    .team__title h5 {
+        font-size: 18px;
+    }
+    
+}
+
+
+@media (max-width: 767px) {
+    .navbar .navbar-nav {
+        margin-top: 0;
+        border-top: none;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+        margin-left: 0;
+        padding: 10px 0;
+    }
+    
+} */
+
