@@ -307,7 +307,7 @@ section.about {
 }
 
 .navbar .navbar-nav .nav-link {
-    margin-left: 30px;
+    margin-left: 20px;
     padding: 25px 0;
     color: #EEEEEE;
     font-weight: 500;
@@ -374,7 +374,7 @@ section.about {
     display: flex;
     align-items: center;
     text-align: start;
-    background: rgba(0, 0, 0, .65);
+    background: rgba(0, 0, 0, .45);
     z-index: 1;
 }
 
@@ -431,7 +431,7 @@ section.about {
 }
 
 .kontakt-header {
-    background: linear-gradient(rgba(234, 162, 7, 0.75), rgba(227, 141, 12, 0.75)), center center no-repeat;
+    background: linear-gradient(rgba(191, 147, 53, 0.75), rgba(198, 166, 8, 0.55)), center center no-repeat;
     background-size: cover;
 }
 
