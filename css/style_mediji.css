@@ -5355,41 +5355,7 @@ hr {
     margin-right: 10px
 }
 
-.blog-pagination .page-link i,
-.blog-pagination .page-link span {
-    font-size: 13px
-}
 
-.blog-pagination .page-item.active .page-link {
-    background-color: #fbf9ff;
-    border-color: #f0e9ff;
-    color: #888888
-}
-
-.blog-pagination .page-item:last-child .page-link {
-    margin-right: 0
-}
-
-.single-post-area .blog_details {
-    box-shadow: none;
-    padding: 0
-}
-
-.single-post-area .social-links {
-    padding-top: 10px
-}
-
-.single-post-area .social-links li {
-    display: inline-block;
-    margin-bottom: 10px
-}
-
-.single-post-area .social-links li a {
-    color: #cccccc;
-    padding: 7px;
-    font-size: 14px;
-    transition: all 0.2s linear
-}
 
 .single-post-area .blog_details {
     padding-top: 26px
@@ -6458,25 +6424,8 @@ del {
     border: 1px solid transparent
 }
 
-.genric-btn.link {
-    color: #415094;
-    background: #f9f9ff;
-    text-decoration: underline;
-    border: 1px solid transparent
-}
 
-.genric-btn.link:hover {
-    color: #415094;
-    border: 1px solid #f9f9ff;
-    background: #fff
-}
 
-.genric-btn.link-border {
-    color: #415094;
-    border: 1px solid #f9f9ff;
-    background: #fff;
-    text-decoration: underline
-}
 
 .genric-btn.link-border:hover {
     color: #415094;
